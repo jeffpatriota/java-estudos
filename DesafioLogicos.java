@@ -1,6 +1,6 @@
 package Fundamentos.operadores;
 
-public class DesafioLogicos {
+public class DesafioLogico {
 	public static void main(String[] args) {
 
 		boolean trabalho1 = true;
@@ -14,7 +14,7 @@ public class DesafioLogicos {
 		System.out.println("Comprou TV 50\"?" + comprouTV50);
 		System.out.println("Comprou TV 32\"?" + comprouTV32);
 		System.out.println("Toumou Sorvete?" + comprouTV50);
-		System.out.println("Mais Saud·vel? " + maisSaudavel);
+		System.out.println("Mais Saud√°vel? " + maisSaudavel);
 
 	}
 
