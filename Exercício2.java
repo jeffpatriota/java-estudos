@@ -1,10 +1,10 @@
-package Exercícios;
+package ExercÃ­cios;
 
 import java.util.Scanner;
 
-public class Exercício2 {
+public class Exercicio2 {
 	
-	//Criar um programa e informar se o ano atual é um ano bissexto;
+	//Criar um programa e informar se o ano atual Ã© um ano bissexto;
 	
 	
 	public static void main(String[] args) {
@@ -15,9 +15,9 @@ public class Exercício2 {
 		int bissexto = ano % 4;
 		
 		if(bissexto == 0)
-			System.out.println(ano + " é um ano bissexto");
+			System.out.println(ano + " Ã© um ano bissexto");
 		else 
-			System.out.println(ano + " não é um ano bissexto");
+			System.out.println(ano + " nÃ£o Ã© um ano bissexto");
 
 		entrada.close();
 		
