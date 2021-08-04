@@ -3,6 +3,7 @@ package Fundamentos;
 public class AreaCircunferencia {
 
 	public static void main(String[] args) {
+		//  Área Circunferência
 
 		double raio = 3.4;
 		final double PI = 3.14159;
@@ -12,6 +13,6 @@ public class AreaCircunferencia {
 		
 		raio = 10;
 				area = PI * raio * raio;
-				System.out.println("�rea = " + area + " m2.");
+				System.out.println("Área = " + area + " m2.");
 	}
 }
